@@ -74,4 +74,6 @@ Java Script
 
 The following resources were used in building this website:
 * [Font Awesome](https://fontawesome.com/)
-* Avinash tutorials
+  
+**Contributing**
+Contributions are welcome! If you encounter any issues or have suggestions for improvement, please create a new issue or submit a pull request.
